@@ -1,1 +1,1 @@
-This is the updated main branch content.
+This is the resolved content from both branches.
